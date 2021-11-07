@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rabcbot&show_icons=true&count_private=true&include_all_commits=true&custom_title=RABCbot%21&hide_border=true&theme=vision-friendly-dark)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabcbot&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabcbot&hide_border=true&theme=vision-friendly-dark)
 
