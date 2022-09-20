@@ -1,7 +1,6 @@
 ## Cloud
-<img src="https://img.shields.io/badge/azure/>
-<img src="https://img.shields.io/badge/AWS/>
-
+<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 <!--
 **RABCbot/rabcbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
